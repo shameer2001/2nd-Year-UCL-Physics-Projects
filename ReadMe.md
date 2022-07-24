@@ -16,3 +16,9 @@ Session08 - Finding roots, and boundary value problems using Secant Method
 Session09 -  Matrices and Eigenvector problems, Normal modes of beads connected by springs
 
 Session10 - The Discrete Fourier Transform and Fast Fourier Transform
+
+
+## Final Project: The-infinite-unsquare-potential
+Solving the Schrödinger equation for various potentials in Python3. Solutions included infinite square well eigenvalues, ground state energy and higher energies.
+
+Also, ground state and higher energies were found for finite-square well, harmonic potential and an arbitrary potential.
