@@ -1,3 +1,4 @@
+Session01 - Python Recap
 
 Session02 -  Histograms and normal distributions
 
